@@ -1,0 +1,152 @@
+
+    .page-header, .panel-grey, .slot-content, .sidebar-shortcuts, .inner-wrap, .sidebar-breadcrumb, .footer {
+        background: #28313C !important;
+    }
+
+    .slot-wrapper, .page-sidebar, .main {
+        background: #28313C !important;
+    }
+
+    .nav-item:hover {
+        background-color: #31e219c2 !important;
+    }
+
+    .ha1 {
+        color: #ffea00 !important;
+    }
+    
+    button#semua, button#minigame, button#togelall, button#slot, button#carigame {
+        background: linear-gradient(#23cf00, #6eff2a, #3bcf00) !important;
+        color: #000000 !important;
+        font-weight: bold;
+    }
+
+    .button-orange {
+        background-color: #ffff00 !important;
+    }
+    .nama-pasar{
+        color: #0004ff;
+    }
+     
+    .buttonlc2 {
+        color: #0f0f0f !important;
+        font-weight: bold;
+        background: linear-gradient(-45deg,#0eeb19, #dbdf0b, #0eeb19, #dbdf0b) ;
+        background-size: auto ;
+        background-size: 400% 400% ;
+        animation: gradient 5s ease infinite;
+        box-shadow: inset 0px 0px 0px 1px #ffffff, inset 0px 2px 0px 0px rgb(255 170 0), inset 0px 0px 0px 2px #ffffff, 3px 3px 3px 1px rgb(0 0 0 / 20%) !important;
+        border-radius: 5px !important;
+        line-height: 20px !important;
+    }
+
+    @keyframes gradient {
+        0% {
+          background-position: 0% 50%;
+        }
+        50% {
+          background-position: 100% 50%;
+        }
+        100% {
+          background-position: 0% 50%;
+        }
+        }
+
+    .slot-header-right button {
+        padding: 4px 10px;
+        border-radius: 5px;
+        font-weight: bold !important;
+        color: #ffffff !important;
+        background: linear-gradient(#eeff00, #6d6b0e, #fbff00) !important;
+    }
+
+    div#lobtoto>a>div.angka-keluar {
+        font-size: 30px !important;
+        margin-top: -20px !important;
+        font
+    }
+
+    div#lobtoto>a>b {
+        margin-top: 30px !important;
+    }
+
+    div#lobtoto>a {
+        background: url("https://res.cloudinary.com/dtfkorlcr/image/upload/v1702776943/luckyone8181/bet_1_zbmmcc.png"), linear-gradient(#358c13, #062306, #358c13) no-repeat center !important;
+        background-size: 100% 100% !important;
+    }
+
+    div#lobmini>a{
+        /* background: linear-gradient(0deg, #8c4613 0%, #231106 34%, #8c4613 65%) !important; */
+        background-image: linear-gradient(#36fa0e, #08330a, #36fa0e) !important;
+    }
+
+    div#lobtoto .button-extra-big2 {
+        padding: 15px 0 0 0 !important;
+    }
+
+    .livechat_cust.bottom-button {
+    position: fixed;
+    padding: 0;
+    left: auto;
+    top: auto;
+    right: 14px;
+    bottom: 19px;
+    width: 51px;
+    height: 51px;
+    background: url(https://res.cloudinary.com/dtfkorlcr/image/upload/v1702775353/luckyone8181/livechatlucky_lsaxnq.gif) no-repeat;
+    background-size: 100%;
+    z-index: 1000;
+    border: 0px;
+    border-radius: 5px; 
+    }
+
+    .button-blue, .button-green{
+        color: rgb(15, 15, 15);
+        font-weight: bold;
+        padding: 10px 26px 10px 26px;
+        background: linear-gradient(-45deg,#0eeb19, #dbdf0b, #0eeb19, #dbdf0b) ;
+        background-size: auto ;
+        background-size: 400% 400% ;
+        animation: gradient 5s ease infinite;
+        box-shadow: inset 0px 0px 0px 1px #ffffff, inset 0px 2px 0px 0px rgb(255 170 0), inset 0px 0px 0px 2px #ffffff, 3px 3px 3px 1px rgb(0 0 0 / 20%);
+        border-radius: 20px !important;
+        line-height: 20px !important;
+        }
+
+        @keyframes gradient {
+            0% {
+            background-position: 0% 50%;
+            }
+            50% {
+            background-position: 100% 50%;
+            }
+            100% {
+            background-position: 0% 50%;
+            }
+            }
+            
+            @keyframes gradient {
+            0% {
+            background-position: 0% 50%;
+            }
+            50% {
+            background-position: 100% 50%;
+            }
+            100% {
+            background-position: 0% 50%;
+            }
+            }
+            
+            @keyframes gradient {
+            0% {
+            background-position: 0% 50%;
+            }
+            50% {
+            background-position: 100% 50%;
+            }
+            100% {
+            background-position: 0% 50%;
+            }
+            }
+
+            
